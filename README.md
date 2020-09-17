@@ -7,3 +7,6 @@ This is the implementation of the magnetical acctuator from based on the DCS1K f
 Contact person for this acctuator is [Oliver Kawaletz](mailto:Oliver.Kawaletz@Micronas.com?DCS1K)   (+49 761 517-3515)
 
 ![DCS1K](documentation/pictures/DCS1K.PNG)
+
+This software is to run on the [**T**est **C**ell **C**ontroller (TCC)](https://github.com/Semi-ATE/TCC)
+
