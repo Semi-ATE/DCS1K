@@ -8,5 +8,7 @@ Contact person for this acctuator is [Oliver Kawaletz](mailto:Oliver.Kawaletz@Mi
 
 ![DCS1K](documentation/pictures/DCS1K.PNG)
 
-This software is to run on the [**T**est **C**ell **C**ontroller (TCC)](https://github.com/Semi-ATE/TCC)
+This software is to run on:
+  - The [**T**est **C**ell **C**ontroller (TCC)](https://github.com/Semi-ATE/TCC) if the DCS1K is build in to a handler.
+  - The [Mini-SCT](https://github.com/Semi-ATE/MiniSCT) or [Maxi-SCT](https://github.com/Semi-ATE/MaxiSCT) if the DCS1K is not build in to a handler (and thus doesn't have a TCC)
 
