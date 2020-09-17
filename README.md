@@ -1,2 +1,4 @@
 # DCS1K
-STL Digital Current Source 1K Watt
+
+[STL](http://www.stl-gmbh.de/) **D**igital **C**urrent **S**ource **1K** Watt
+
